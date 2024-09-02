@@ -583,6 +583,248 @@ export default function Home() {
 
         </div>
 
+        <div className="text-2xl mt-3">INTEGRAL + 1 DAS EXTRAS</div>
+      <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left border-solid border-4 border-blue-800 rounded hover:border-pink-700 duration-700 p-3 mt-1">
+        <a
+          href="https://www.udemy.com/course-dashboard-redirect/?course_id=4821926"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            DOCKER{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          UDEMY - ANDRE IACONO.
+          </p>
+        </a>
+
+      <a
+          href="https://www.udemy.com/course-dashboard-redirect/?course_id=1566920"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            UDEMY - REACT NATIVE{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Construa aplicativos mobile do zero com React Native e Redux.
+          </p>
+        </a>
+
+        <a
+            href="https://alunos.b7web.com.br/curso/reactnative/introducao-ao-react-native"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+              REACT NATIVE{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            B7WEB - REACT NATIVE
+            </p>
+        </a>
+
+        <a
+          href="https://www.udemy.com/course-dashboard-redirect/?course_id=4698298"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+          MATEMÁTICA{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Matemática para ENEM e concursos.
+          </p>
+        </a>
+
+        <a
+            href="https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            JAVA 8{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Java - DevDojo BR YT.
+            </p>
+          </a>
+
+          <a
+            href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            JAVA 8 ATT{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Maratona Java Virado no Jiraya.
+            </p>
+          </a>
+
+          <a
+            href="https://www.udemy.com/course-dashboard-redirect/?course_id=4312408"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            UDEMY - JAVA{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Backend COMPLETO com Java - APIRestFull e Microsserviços.
+            </p>
+          </a>
+
+          <a
+          href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            JAVASCRIPT{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            JAVASCRIPT B7WEB.
+          </p>
+        </a>
+
+        <a
+          href="https://alunos.b7web.com.br/curso/reactjs/react-o-que-e-react"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            REACT{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          B7WEB - REACT.
+          </p>
+        </a>
+
+        <a
+          href="https://alunos.b7web.com.br/curso/nextjs"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+            NEXT.JS{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          B7WEB - NEXT.JS.
+          </p>
+        </a>
+
+        <a
+          href="https://www.youtube.com/playlist?list=PL90gDMfBdI0FoyYlRBTiV62OL6UWolFDD"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+          INKSCAPE ATUAL{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Basicão de Inkscape.
+          </p>
+        </a>
+
+        <a
+          href="https://www.youtube.com/playlist?list=PL90gDMfBdI0HKyGujd9w8iagd1EHyLvsL"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+          GIMP ATUAL{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Basicão de GIMP.
+          </p>
+        </a>
+
+        <a
+          href="https://www.youtube.com/playlist?list=PL90gDMfBdI0G_M9YVUy-vg2iDNWuALtpM"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+          SYNFIG ATUAL{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Basicão de Synfig.
+          </p>
+        </a>
+
+        <a
+          href="https://www.youtube.com/playlist?list=PL90gDMfBdI0FJ0JCzcGBgLlbb5kXHXRqz"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2 className="mb-3 text-2xl font-semibold">
+          BLENDER ATUAL{" "}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          Basicão de Blender.
+          </p>
+        </a>
+
+        </div>
+
     </main>
   );
 }
