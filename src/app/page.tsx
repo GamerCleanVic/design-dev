@@ -40,7 +40,7 @@ export default function Home() {
       </div> */}
       <div className="text-4xl font-bold">XTREME GO HORSE DIÁRIO (DESIGN AND PROGRAMMING)</div>
       <div className="text-3xl">UMA AULA DE CADA CONSECUTIVAMENTE</div>
-      <div className="text-2xl mt-3">MANHÃ + 1 DAS EXTRAS</div>
+      <div className="text-2xl mt-3">MANHÃ</div>
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left border-solid border-4 border-blue-800 rounded hover:border-pink-700 duration-700 p-3 mt-1">
         <a
           href="https://www.udemy.com/course-dashboard-redirect/?course_id=4821926"
@@ -57,40 +57,6 @@ export default function Home() {
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
           UDEMY - ANDRE IACONO.
           </p>
-        </a>
-
-      <a
-          href="https://www.udemy.com/course-dashboard-redirect/?course_id=1566920"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2 className="mb-3 text-2xl font-semibold">
-            UDEMY - REACT NATIVE{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
-          Construa aplicativos mobile do zero com React Native e Redux.
-          </p>
-        </a>
-
-        <a
-            href="https://alunos.b7web.com.br/curso/reactnative/introducao-ao-react-native"
-            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className="mb-3 text-2xl font-semibold">
-              REACT NATIVE{" "}
-              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-                -&gt;
-              </span>
-            </h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            B7WEB - REACT NATIVE
-            </p>
         </a>
 
         <a
