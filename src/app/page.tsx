@@ -132,7 +132,7 @@ export default function Home() {
         </a>
 
         <a
-            href="https://alunos.b7web.com.br/curso/reactnative/introducao-ao-react-native"
+            href="https://alunos.b7web.com.br/curso/reactnative/"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
