@@ -300,6 +300,40 @@ export default function Home() {
             B7WEB - LARAVEL.
           </p>
         </a>
+
+          <a
+            href="https://www.udemy.com/course-dashboard-redirect/?course_id=3803130"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+              C++ INICIANTE{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            UDEMY - MARCOS OLIVEIRA.
+            </p>
+          </a>
+
+          <a
+            href="https://www.udemy.com/course-dashboard-redirect/?course_id=3803828"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+              C++ AVANÇADO{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            UDEMY - MARCOS OLIVEIRA.
+            </p>
+          </a>
         </div>
 
       <div className="text-2xl mt-3">XTREME GO HORSE ALTERNADO(TARDE E NOITE)</div>
