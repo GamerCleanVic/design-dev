@@ -61,7 +61,7 @@ export default function Home() {
 
         </div>
 
-        <div className="text-2xl mt-3">INTEGRAL + 1 DAS EXTRAS</div>
+        <div className="text-2xl mt-3">INTEGRAL</div>
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left border-solid border-4 border-blue-800 rounded hover:border-pink-700 duration-700 p-3 mt-1">
         <a
           href="https://www.udemy.com/course-dashboard-redirect/?course_id=4821926"
