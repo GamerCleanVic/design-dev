@@ -98,7 +98,7 @@ export default function Home() {
         </a>
 
         <a
-            href="https://alunos.b7web.com.br/curso/reactnative/"
+            href="https://app.b7web.com.br/course/fundamentos-de-react-native"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -155,7 +155,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className="mb-3 text-2xl font-semibold">
-            JAVA 8 ATT{" "}
+            JAVA 15 ATT{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                 -&gt;
               </span>
@@ -183,7 +183,7 @@ export default function Home() {
           </a>
 
           <a
-          href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript"
+          href="https://app.b7web.com.br/course/fundamentos-de-javascript"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -200,7 +200,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/reactjs/react-o-que-e-react"
+          href="https://app.b7web.com.br/course/fundamentos-de-reactjs"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -217,7 +217,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/nextjs"
+          href="https://app.b7web.com.br/course/fundamentos-de-nextjs"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -234,7 +234,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/php"
+          href="https://app.b7web.com.br/course/introducao-ao-php"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -251,7 +251,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/laravel"
+          href="https://app.b7web.com.br/course/introducao-ao-laravel"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 border card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -322,7 +322,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/node"
+          href="https://app.b7web.com.br/course/fundamentos-de-nodejs"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -396,7 +396,7 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <h2 className="mb-3 text-2xl font-semibold">
-            JAVA 8 ATT{" "}
+            JAVA 15 ATT{" "}
               <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
                 -&gt;
               </span>
@@ -424,7 +424,7 @@ export default function Home() {
           </a>
 
           <a
-          href="https://alunos.b7web.com.br/curso/php"
+          href="https://app.b7web.com.br/course/introducao-ao-php"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -441,7 +441,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/laravel"
+          href="https://app.b7web.com.br/course/introducao-ao-laravel"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 border card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -668,7 +668,7 @@ export default function Home() {
           </a>
 
             <a
-            href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript"
+            href="https://app.b7web.com.br/course/fundamentos-de-javascript"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -685,7 +685,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alunos.b7web.com.br/curso/reactjs/react-o-que-e-react"
+            href="https://app.b7web.com.br/course/fundamentos-de-reactjs"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -702,7 +702,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alunos.b7web.com.br/curso/nextjs"
+            href="https://app.b7web.com.br/course/fundamentos-de-nextjs"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -719,7 +719,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alunos.b7web.com.br/curso/php"
+            href="https://app.b7web.com.br/course/introducao-ao-php"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -736,7 +736,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alunos.b7web.com.br/curso/laravel"
+            href="https://app.b7web.com.br/course/introducao-ao-laravel"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 border card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -753,7 +753,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://alunos.b7web.com.br/curso/node"
+            href="https://app.b7web.com.br/course/fundamentos-de-nodejs"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
             rel="noopener noreferrer"
@@ -843,7 +843,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://alunos.b7web.com.br/curso/javascript/js-introducao-ao-javascript"
+          href="https://app.b7web.com.br/course/fundamentos-de-javascript"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
           target="_blank"
           rel="noopener noreferrer"
@@ -855,7 +855,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            JAVASCRIPT B7WEB.
+            JAVASCRIPT - B7WEB.
           </p>
         </a>
 
