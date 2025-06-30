@@ -306,6 +306,23 @@ export default function Home() {
       </a>
 
       <a
+            href="https://www.udemy.com/course-dashboard-redirect/?course_id=4312408"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            UDEMY - JAVA{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+              Backend COMPLETO com Java - APIRestFull e Microsserviços.
+            </p>
+        </a>
+
+      <a
             href="https://app.b7web.com.br/course/fundamentos-de-javascript"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
@@ -406,57 +423,6 @@ export default function Home() {
           UDEMY - THIAGO ADRIANO.
           </p>
         </a>
-
-        <a
-            href="https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL"
-            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className="mb-3 text-2xl font-semibold">
-            JAVA 8{" "}
-              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-                -&gt;
-              </span>
-            </h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Java - DevDojo BR YT.
-            </p>
-          </a>
-
-          <a
-            href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"
-            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className="mb-3 text-2xl font-semibold">
-            JAVA 15 ATT{" "}
-              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-                -&gt;
-              </span>
-            </h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Maratona Java Virado no Jiraya.
-            </p>
-          </a>
-
-          <a
-            href="https://www.udemy.com/course-dashboard-redirect/?course_id=4312408"
-            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <h2 className="mb-3 text-2xl font-semibold">
-            UDEMY - JAVA{" "}
-              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-                -&gt;
-              </span>
-            </h2>
-            <p className="m-0 max-w-[30ch] text-sm opacity-50">
-              Backend COMPLETO com Java - APIRestFull e Microsserviços.
-            </p>
-          </a>
 
         <a
           href="https://app.b7web.com.br/course/introducao-ao-laravel"
