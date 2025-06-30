@@ -288,7 +288,7 @@ export default function Home() {
             </p>
           </a>
 
-          <a
+      <a
             href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"
             className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
             target="_blank"
@@ -302,6 +302,40 @@ export default function Home() {
             </h2>
             <p className="m-0 max-w-[30ch] text-sm opacity-50">
             Maratona Java Virado no Jiraya.
+            </p>
+      </a>
+
+      <a
+            href="https://www.youtube.com/playlist?list=PL_GwGUsBlNyfI0W3ggfffhBdJUqB4981Z"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            Java Web 1{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Programação Web com Java.
+            </p>
+      </a>
+
+      <a
+            href="https://www.youtube.com/playlist?list=PLbEOwbQR9lqz9AnwhrrOLz9cz1-TxoiUg"
+            className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30 card-buttom"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h2 className="mb-3 text-2xl font-semibold">
+            Java Web 2{" "}
+              <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+                -&gt;
+              </span>
+            </h2>
+            <p className="m-0 max-w-[30ch] text-sm opacity-50">
+            Curso Java WEB Level 1 (Servlet - jsp, JDBC).
             </p>
       </a>
 
