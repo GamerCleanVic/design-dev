@@ -829,14 +829,372 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+          <div className="m-3 rounded-3xl border-2 border-solid border-pink-500 hover:border-indigo-600 pr-4 pl-4 pt-2 pb-2 ">
             <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">Nome curso</h2>
-              <p className="font-normal text-gray-400">Local - Professor</p>
+              <h2 className="mb-3 text-2xl font-semibold">GIMP ATUAL</h2>
+              <p className="font-normal text-gray-400">Basicão de GIMP</p>
             </div>
             <a
               className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="####"
+              href="https://www.youtube.com/playlist?list=PL90gDMfBdI0HKyGujd9w8iagd1EHyLvsL"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-green-600 hover:border-white pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">SYNFIG ATUAL</h2>
+              <p className="font-normal text-gray-400">Basicão de Synfig</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL90gDMfBdI0G_M9YVUy-vg2iDNWuALtpM"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">BLENDER ATUAL</h2>
+              <p className="font-normal text-gray-400">Basicão de Blender</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL90gDMfBdI0FJ0JCzcGBgLlbb5kXHXRqz"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-pink-500 hover:border-indigo-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">KRITA</h2>
+              <p className="font-normal text-gray-400">Basicão de Krita</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL90gDMfBdI0Gl09s0t9hbaiuAUFLEwxKG"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+        </div>
+
+        <div className="text-2xl mt-5">TECNOLOGIAS EXTRAS</div>
+        <div className="flex flex-row justify-around flex-wrap gap-4 text-base font-medium md:flex-row rounded-3xl border-2 border-solid border-pink-500 pr-4 pl-4 pt-2 pb-2 mt-1">
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">JAVASCRIPT</h2>
+              <p className="font-normal text-gray-400">B7WEB - JAVASCRIPT</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://app.b7web.com.br/course/fundamentos-de-javascript"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-400 hover:border-green-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">ELIXIR</h2>
+              <p className="font-normal text-gray-400">Elixir Basics</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-green-600 hover:border-yellow-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">LUA</h2>
+              <p className="font-normal text-gray-400">Introdução a Programação com Lua</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">VUE.JS 3</h2>
+              <p className="font-normal text-gray-400">Vue JS 3 Completo com Composition API && Vuex && Vue Router</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=4065206"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-500 hover:border-green-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">ANGULAR</h2>
+              <p className="font-normal text-gray-400">Loiane Groner - Curso de Angular</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-green-600 hover:border-yellow-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">DSA COM JAVA</h2>
+              <p className="font-normal text-gray-400">Loiane Groner - Estrutura de Dados e Algoritmos com Java</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+        </div>
+
+        <div className="text-2xl mt-5">XTREME GO HORSE BACKEND</div>
+        <div className="flex flex-row justify-around flex-wrap gap-4 text-base font-medium md:flex-row rounded-3xl border-2 border-solid border-green-500 pr-4 pl-4 pt-2 pb-2 mt-1">
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">DOCKER</h2>
+              <p className="font-normal text-gray-400">UDEMY - ANDRE IACONO</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=4821926"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-pink-500 hover:border-indigo-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">JAVA 8</h2>
+              <p className="font-normal text-gray-400">Java - DevDojo BR YT</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-600 hover:border-green-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">JAVA 15 ATT</h2>
+              <p className="font-normal text-gray-400">Maratona Java Virado no Jiraya</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">UDEMY - JAVA</h2>
+              <p className="font-normal text-gray-400">Backend COMPLETO com Java - APIRestFull e Microsserviços</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=4312408"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-600 hover:border-green-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">JAVASCRIPT</h2>
+              <p className="font-normal text-gray-400">B7WEB - JAVASCRIPT</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://app.b7web.com.br/course/fundamentos-de-javascript"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-pink-500 hover:border-indigo-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">NODE.JS</h2>
+              <p className="font-normal text-gray-400">B7WEB - NODE.JS</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://app.b7web.com.br/course/fundamentos-de-nodejs"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-600 hover:border-green-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">UDEMY - NODE.JS</h2>
+              <p className="font-normal text-gray-400">Criando APIs RESTful utilizando TypeScript, Node.js, mongo</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=2060799"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -872,7 +1230,6 @@ export default function Home() {
               Acessar
             </a>
           </div>
-
 
         </div>
 
