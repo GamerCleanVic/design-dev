@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex w-full  flex-col items-center justify-around py-32 px-16 bg-white dark:bg-black sm:items-start">
+      <main className="flex w-full  flex-col items-center justify-around py-32 px-16 bg-white dark:bg-black">
 
         <div className="text-4xl font-bold">XTREME GO HORSE DIÁRIO (DESIGN AND PROGRAMMING)</div>
         <div className="text-3xl mt-3">UMA AULA DE CADA CONSECUTIVAMENTE</div>
@@ -1030,14 +1030,14 @@ export default function Home() {
             </a>
           </div>
 
-          <div className="m-3 rounded-3xl border-2 border-solid border-green-600 hover:border-yellow-500 pr-4 pl-4 pt-2 pb-2 ">
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
             <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">DSA COM JAVA</h2>
-              <p className="font-normal text-gray-400">Loiane Groner - Estrutura de Dados e Algoritmos com Java</p>
+              <h2 className="mb-3 text-2xl font-semibold">C# 1</h2>
+              <p className="font-normal text-gray-400">YT - Aguiar Dev</p>
             </div>
             <a
               className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi"
+              href="https://www.youtube.com/playlist?list=PL98Twj_R9BX5gkB6BtA1RhhxtrvAJi9Pp"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -1051,6 +1051,95 @@ export default function Home() {
               Acessar
             </a>
           </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-pink-500 hover:border-indigo-600 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">C# 2</h2>
+              <p className="font-normal text-gray-400">YT - Escola de Programação</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PLvC_45zlQrYL3v2F4NDVXs59kx9Kf1qlV"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-yellow-600 hover:border-green-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">Shell Script</h2>
+              <p className="font-normal text-gray-400">YT - debxp (Blau Araujo)</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">C</h2>
+              <p className="font-normal text-gray-400">YT - De aluno para aluno</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-purple-900 hover:border-t-white pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">PHP</h2>
+              <p className="font-normal text-gray-400">B7WEB - PHP</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://app.b7web.com.br/course/introducao-ao-php"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
         </div>
 
         <div className="text-2xl mt-5">XTREME GO HORSE BACKEND</div>
@@ -1129,6 +1218,28 @@ export default function Home() {
             <a
               className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
               href="https://www.udemy.com/course-dashboard-redirect/?course_id=4312408"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-green-600 hover:border-yellow-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">DSA COM JAVA</h2>
+              <p className="font-normal text-gray-400">Loiane Groner - Estrutura de Dados e Algoritmos com Java</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -1305,116 +1416,6 @@ export default function Home() {
             <a
               className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
               href="https://www.udemy.com/course-dashboard-redirect/?course_id=2411816"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                className="dark:invert"
-                src="/vercel.svg"
-                alt="Vercel logomark"
-                width={16}
-                height={16}
-              />
-              Acessar
-            </a>
-          </div>
-
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
-            <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">C# 1</h2>
-              <p className="font-normal text-gray-400">YT - Aguiar Dev</p>
-            </div>
-            <a
-              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://www.youtube.com/playlist?list=PL98Twj_R9BX5gkB6BtA1RhhxtrvAJi9Pp"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                className="dark:invert"
-                src="/vercel.svg"
-                alt="Vercel logomark"
-                width={16}
-                height={16}
-              />
-              Acessar
-            </a>
-          </div>
-
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
-            <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">C# 2</h2>
-              <p className="font-normal text-gray-400">YT - Escola de Programação</p>
-            </div>
-            <a
-              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://www.youtube.com/playlist?list=PLvC_45zlQrYL3v2F4NDVXs59kx9Kf1qlV"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                className="dark:invert"
-                src="/vercel.svg"
-                alt="Vercel logomark"
-                width={16}
-                height={16}
-              />
-              Acessar
-            </a>
-          </div>
-
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
-            <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">Shell Script</h2>
-              <p className="font-normal text-gray-400">YT - debxp (Blau Araujo)</p>
-            </div>
-            <a
-              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                className="dark:invert"
-                src="/vercel.svg"
-                alt="Vercel logomark"
-                width={16}
-                height={16}
-              />
-              Acessar
-            </a>
-          </div>
-
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
-            <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">C</h2>
-              <p className="font-normal text-gray-400">YT - De aluno para aluno</p>
-            </div>
-            <a
-              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://www.youtube.com/playlist?list=PLa75BYTPDNKZWYypgOFEsX3H2Mg-SzuLW"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Image
-                className="dark:invert"
-                src="/vercel.svg"
-                alt="Vercel logomark"
-                width={16}
-                height={16}
-              />
-              Acessar
-            </a>
-          </div>
-
-          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
-            <div className="m-3 mr-5 ml-0">
-              <h2 className="mb-3 text-2xl font-semibold">PHP</h2>
-              <p className="font-normal text-gray-400">B7WEB - PHP</p>
-            </div>
-            <a
-              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-              href="https://app.b7web.com.br/course/introducao-ao-php"
               target="_blank"
               rel="noopener noreferrer"
             >
