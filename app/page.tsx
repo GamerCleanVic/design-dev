@@ -784,6 +784,29 @@ export default function Home() {
 
           <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
             <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">Rust Udemy</h2>
+              <p className="font-normal text-gray-400">Curso Programação Rust Completo : do Zero ao Pleno! (2025)
+</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=4036598"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
               <h2 className="mb-3 text-2xl font-semibold">RUBY ON RAILS</h2>
               <p className="font-normal text-gray-400">RAILS P/ INICIANTES</p>
             </div>
@@ -803,6 +826,7 @@ export default function Home() {
               Acessar
             </a>
           </div>
+
         </div>
 
         <div className="text-2xl mt-5">DESIGN GRÁFICO (SÁBADO)</div>
@@ -1416,6 +1440,29 @@ export default function Home() {
             <a
               className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
               href="https://www.udemy.com/course-dashboard-redirect/?course_id=2411816"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <Image
+                className="dark:invert"
+                src="/vercel.svg"
+                alt="Vercel logomark"
+                width={16}
+                height={16}
+              />
+              Acessar
+            </a>
+          </div>
+
+          <div className="m-3 rounded-3xl border-2 border-solid border-indigo-600 hover:border-pink-500 pr-4 pl-4 pt-2 pb-2 ">
+            <div className="m-3 mr-5 ml-0">
+              <h2 className="mb-3 text-2xl font-semibold">Rust Udemy</h2>
+              <p className="font-normal text-gray-400">Curso Programação Rust Completo : do Zero ao Pleno! (2025)
+</p>
+            </div>
+            <a
+              className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
+              href="https://www.udemy.com/course-dashboard-redirect/?course_id=4036598"
               target="_blank"
               rel="noopener noreferrer"
             >
